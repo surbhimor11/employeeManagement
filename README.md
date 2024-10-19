@@ -1,8 +1,6 @@
-# Employee Management System
+# CrewSync--Employee Management System
 > This Employee Management System is created using Java, with SQL and JDBC for database integration and a GUI made from Swing components.
 
-## Video overview
-For a video overview and walkthrough of the system, [click here.](https://youtu.be/4W24xYVc0Hc)
 
 ## What have I learnt?
 Whilst doing this project I have taught myself some new skills, these are:
